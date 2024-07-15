@@ -52,10 +52,27 @@ Predicting book price based on a given set of features like ratings, reviews, au
 
 ## Technical Skills
 
-- **💻 Programming Languages:** C/C++, Python
-- **🌐 Web Development:** HTML, CSS, JavaScript, ReactJS, Spring Boot
-- **🗄️ Databases:** DBMS/SQL
-- **🔧 Others:** Data Structures, Algorithms, OOP Concepts, GitHub
+- **💻 Programming Languages:**  
+  [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+- **🌐 Web Development:**  
+  [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+  [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+
+- **🗄️ Databases:**  
+  [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+- **🔧 Others:**  
+  [![Data Structures](https://img.shields.io/badge/Data_Structures-4B0082?style=for-the-badge&logo=databricks&logoColor=white)](https://en.wikipedia.org/wiki/Data_structure)
+  [![Algorithms](https://img.shields.io/badge/Algorithms-DC143C?style=for-the-badge&logo=algolia&logoColor=white)](https://en.wikipedia.org/wiki/Algorithm)
+  [![OOP](https://img.shields.io/badge/OOP-008080?style=for-the-badge&logo=objectgroup&logoColor=white)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
 
 ---
 
