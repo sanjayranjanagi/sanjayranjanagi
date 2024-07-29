@@ -14,7 +14,7 @@ As a passionate student of Computer Science and Engineering, I'm dedicated to so
 
 - **🎓 B.E Computer Science**
   - KLE Technological University, Hubballi
-  - 10/2021 - Present, CGPA: 8.65/10
+  - 10/2021 - Present, CGPA: 8.81/10
 
 - **🎓 PUC**
   - Vagdevi PU Science College, Bagalkot
