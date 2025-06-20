@@ -43,10 +43,16 @@ Developed a brain tumor classification model using CNNs with TensorFlow and Kera
 
 **Tools used:** Machine Learning, Image Processing, Python
 
-### 🛠️ Book Price Prediction using EDA
-Predicting book price based on a given set of features like ratings, reviews, authors, etc., using exploratory data analysis.
-
-**Tools used:** Python
+### 🛠️ Travel Planner A Full Stack Web Application
+ Developed a full-stack platform with role-based access for travelers, agents, and administrators.
+ • Designed responsive and user-friendly frontend using Angular, with modular components and routing.
+ • Integrated search, sort, filter, booking, and feedback functionalities.
+ • Built agent tools for managing packages and booking on behalf of clients.
+ • Designed admin panel to manage providers, assign user roles, and approve/reject registrations.
+ • Used Spring Boot to build secure REST APIs integrated with Angular frontend.
+ • Implemented Spring Security with JWT-based authentication to secure user login and API access.
+ • Added a feature for agents to download booking summaries of travelers in PDF format.
+**Tools used:** Java, Springboot, Angular, SQL
 
 ---
 
